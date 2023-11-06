@@ -109,6 +109,6 @@ INSERT YOUR RESPONSE HERE.
 
 INSERT YOUR RESPONSE HERE.
 
-4. Is there opporunity to add any microinteraction(s)? If so, what would be the trigger-action pair(s)?
+4. Is there opportunity to add any microinteraction(s)? If so, what would be the trigger-action pair(s)?
 
 INSERT YOUR RESPONSE HERE.
